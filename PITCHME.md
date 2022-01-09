@@ -54,9 +54,11 @@ Quy trình làm việc dự án phần mềm
 ---
 # Solution
 
+![width:100% height:500](https://raw.githubusercontent.com/mramra3004/ichiba_workshop/master/assets/soution.png)
+
 ---
 # Alige Scrum
-![saturate:2.0](https://lh3.googleusercontent.com/AwLTufJwbc90DBnKW1CXdTbIz8x15CPdijzlWjIsIxKj5ySdW6OSSNaMtExdhCVHjS9wStqsi7sD87BweIp3U1RPv-pm6EjDZffSeLu4Rj5jybrXY29JRkmka5gZU-6wNGlcH_7B_A4K)
+![](https://lh3.googleusercontent.com/AwLTufJwbc90DBnKW1CXdTbIz8x15CPdijzlWjIsIxKj5ySdW6OSSNaMtExdhCVHjS9wStqsi7sD87BweIp3U1RPv-pm6EjDZffSeLu4Rj5jybrXY29JRkmka5gZU-6wNGlcH_7B_A4K)
 
 ---
 
